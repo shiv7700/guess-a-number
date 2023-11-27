@@ -47,9 +47,14 @@ input[type="submit"] {
 
 input {
   margin: 10px;
+  cursor: pointer;
 }
 
 .main {
   margin-left: 2%;
   margin-top: 2%;
+}
+
+.again {
+  padding: 10px;
 }
